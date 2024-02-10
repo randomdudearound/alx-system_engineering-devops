@@ -1,2 +1,2 @@
 #!/bin/bash
-iacta(3)
+head -n 5 6-third_line | tail -1
